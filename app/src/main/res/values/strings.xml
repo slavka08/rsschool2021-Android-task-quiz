@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Quiz</string>
+    <string name="question">Question</string>
+    <string name="uRes">You result: </string>
+    <string name="uAns">You answer: </string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
